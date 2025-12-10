@@ -1,0 +1,16 @@
+archivo de texto con palabras
+Python
+inteligencia
+artificial
+
+datos
+
+asdf
+f
+das
+fa
+
+hola
+hola
+mundo
+
